@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DiscordAnaxes">
+  <a href="https://github.com/Clem7777">
     <img src="https://komarev.com/ghpvc/?username=Clem7777&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/659517561242910766">
