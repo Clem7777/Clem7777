@@ -9,9 +9,6 @@
   <a href="https://discord.com/users/659517561242910766">
     <img src="https://img.shields.io/badge/Discord-Anaxes%233274-%237289da?logo=discord&style=flat-square" alt="Discord: >Clem"!#8841"/>
   </a>
-  <a href="https://twitter.com/DiscordAnaxes">
-    <img src="https://img.shields.io/badge/Twitter-DiscordAnaxes-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: DiscordAnaxes"/>
-  </a>
 </p>
 
 
