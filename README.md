@@ -9,20 +9,6 @@
 
 
 
-<!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
-
-`💻` I am currently working on **[PBOT](https://pb.anaxes.codes) & [ReviewBots](https://reviewbots.xyz)**.
-
-`🛰️` I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
-
-`📰` Website Moderator @ **[Caards](https://caards.me)**.
-
-`🌍` My Personal Website can be found @ **[anaxes.codes](https://anaxes.codes)**.
-
-`📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
-
-`⭐` My goal for 2022 is to be more positive.
-
 <br>
 
 <details>
@@ -36,14 +22,6 @@
 <details open>
   <summary>⏰ Development Time Stats</summary>
 
-<!--START_SECTION:waka-->
-
-```text
-From: 22 April 2022 - To: 29 April 2022
-
-XML          0 secs          █████████████████████████   100.00 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
 
 <!--END_SECTION:waka-->
 
