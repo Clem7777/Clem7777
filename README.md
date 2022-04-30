@@ -1,15 +1,12 @@
 <h1 align="center">Hey 👋, Clem ici.</h1>
-<h3 align="center">Jeune développeur certifié</h3>
+
 
 
 <p align="center">
   <a href="https://github.com/Clem7777">
     <img src="https://komarev.com/ghpvc/?username=Clem7777&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
-  <a href="https://discord.com/users/659517561242910766">
-    <img src="https://img.shields.io/badge/Discord->Clem"!-%237289da?logo=discord&style=flat-square" alt="Discord: >Clem"!#8841"/>
-  </a>
-</p>
+
 
 
 <!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
