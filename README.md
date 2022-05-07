@@ -22,7 +22,8 @@
 
 <br />
 <br />
-<img align="right" alt="GIF" src="https://images-ext-2.discordapp.net/external/JjZHXC2J20sLyh69fcBvdAoSkR-AnlCOAgj5p2J2sys/https/media.tenor.com/9Pnj62UINAcAAAPo/sasuke-sasuke-susanoo.gif"/>
+<img align="right" src="![image](https://user-images.githubusercontent.com/104678798/167265929-4d1b9136-5de8-4b85-9dbb-338d91441135.png)
+"/>
   
 ### 👨‍💻 Languages and Tools
 
