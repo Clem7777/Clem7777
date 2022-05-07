@@ -25,10 +25,9 @@
   ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=eclipse-ide&logoColor=)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=eclipse-ide&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
-
 
 <a href="https://github.com/Clem7777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
