@@ -1,4 +1,4 @@
-![clem](https://user-images.githubusercontent.com/104678798/167265467-05a28bfe-ba77-4cb4-a91a-f65ace5c2705.png)
+
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/104678798/167265712-06a14eaf-d981-4cc6-b02e-fc847848a90b.png)" />
   
 ### 👨‍💻 Languages and Tools
 
