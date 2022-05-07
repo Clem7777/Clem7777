@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/104678798/167265844-433d4882-d6b1-4ec9-adb5-472b4f0efdad.png)
+
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -22,8 +22,7 @@
 
 <br />
 <br />
-
-  <img align="right" src="![image]https://user-images.githubusercontent.com/104678798/167265794-26c4c0a2-de66-4961-8b66-7063c18c8208.png"/>
+<img align="right" alt="GIF" src="https://images-ext-2.discordapp.net/external/JjZHXC2J20sLyh69fcBvdAoSkR-AnlCOAgj5p2J2sys/https/media.tenor.com/9Pnj62UINAcAAAPo/sasuke-sasuke-susanoo.mp4"/>
   
 ### 👨‍💻 Languages and Tools
 
