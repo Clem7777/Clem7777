@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/104678798/167265835-0b659d12-7266-4808-beea-2d0786e6cd26.png)
+![image](https://user-images.githubusercontent.com/104678798/167265844-433d4882-d6b1-4ec9-adb5-472b4f0efdad.png)
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
