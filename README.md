@@ -22,7 +22,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/104678798/167265712-06a14eaf-d981-4cc6-b02e-fc847848a90b.png)" />
+  <img align="right" alt="PNG" src="![image](https://user-images.githubusercontent.com/104678798/167265754-6e8c1b9f-b1be-455b-abc8-e20ecd281516.png)" />
   
 ### 👨‍💻 Languages and Tools
 
