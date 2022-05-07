@@ -1,1 +1,1 @@
-🌍 Programming languages:
+<strong>🌍 Programming languages:</strong>
