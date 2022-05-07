@@ -6,11 +6,6 @@
 - ✍️ &nbsp; Want to learn Assembly ><
 
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png"/>
-<br />
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
