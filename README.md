@@ -32,6 +32,9 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
+<h3> 🤝🏻 &nbsp;want to learn; </h3>
+  ![Assembly](https://assemblychat.github.io/badge/badge.svg)](https://assembly.chat/<mycommunity>)
+
 <a href="https://github.com/Clem7777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem7777" />
