@@ -1,8 +1,12 @@
 ![210a35da07b040fc4188fdb2e640f608](https://user-images.githubusercontent.com/104678798/167266019-e69a4122-2c3e-4dbc-bacd-f3d03661fe07.gif)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🤔 &nbsp; 1 vs 1 CTF ?
-- ✍️ &nbsp; want to learn Assembly.
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
