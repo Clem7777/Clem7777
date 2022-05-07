@@ -36,6 +36,8 @@
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=eclipse-ide&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
+<a href="https://github.com/Clem7777">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
+</a>
 
 ⭐️ From [Clem7777](https://github.com/Clem7777)
