@@ -1,3 +1,22 @@
-### 👩‍💻 Integrated Development Environment :
+head.png
+Salut, merci de vous être arrêté, c’est Charles Zhang.
 
-<image src= "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> n/
+
+
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+iCharles's github stats
+
+ 
+bottom.png
+
