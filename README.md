@@ -1,4 +1,5 @@
-https://media.discordapp.net/attachments/839467202797109248/972556252121006100/4faf74fc9540dc483d61d5478cfc9578.gif
+![4faf74fc9540dc483d61d5478cfc9578](https://user-images.githubusercontent.com/104678798/167265993-03e8389b-d8ed-4b7e-91f8-f78d5de75806.gif)
+
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
