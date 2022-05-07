@@ -5,6 +5,12 @@
 - 🤔 &nbsp; 1Vs1 CTF baby ? 
 - ✍️ &nbsp; Want to learn Assembly ><
 
+
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png"/>
+<br />
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -18,10 +24,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/PHP-333333?style=flat&logo=Php&logoColor=white)
-  
- <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png"/>
-<br />
   
 - 🚀 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
