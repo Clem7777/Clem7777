@@ -36,7 +36,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<img align="left" alt=" Reddit" width="22px" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png" />
+<img align="right" height="270px" width="450px" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png" />
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
