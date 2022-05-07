@@ -1,5 +1,4 @@
-
-
+![clem](https://user-images.githubusercontent.com/104678798/167265467-05a28bfe-ba77-4cb4-a91a-f65ace5c2705.png)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
