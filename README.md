@@ -36,7 +36,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<img width="35%" align="right" alt="Github" src="![image]https://user-images.githubusercontent.com/104678798/167273497-0e6ffbfb-bd90-4ac3-acc4-47b7d72e266a.png" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/104678798/167273497-0e6ffbfb-bd90-4ac3-acc4-47b7d72e266a.png" />
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
