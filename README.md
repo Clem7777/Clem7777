@@ -18,7 +18,7 @@
 - 🚀 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Xampp](https://img.shields.io/badge/Xampp-333333?style=flat&logo=xampp&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-333333?style=flat&logo=unity&logoColor=white)
    
 - 🛢 &nbsp;
