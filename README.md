@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 ### 1Vs1 CTF baby ? 
-- ✍️ &nbsp; ### Want to learn Assembly ><
+- 🤔 &nbsp; 1Vs1 CTF baby ? 
+- ✍️ &nbsp; Want to learn Assembly ><
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
