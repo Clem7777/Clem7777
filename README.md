@@ -1,7 +1,5 @@
-![4faf74fc9540dc483d61d5478cfc9578](https://user-images.githubusercontent.com/104678798/167265993-03e8389b-d8ed-4b7e-91f8-f78d5de75806.gif)
+![210a35da07b040fc4188fdb2e640f608](https://user-images.githubusercontent.com/104678798/167266019-e69a4122-2c3e-4dbc-bacd-f3d03661fe07.gif)
 
-
-    
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
