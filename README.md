@@ -15,7 +15,7 @@
   ![Php](https://img.shields.io/badge/PHP-333333?style=flat&logo=Php&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SqLite]()
+  ![SqLite](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🚀 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
