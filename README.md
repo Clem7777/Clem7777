@@ -19,6 +19,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Php](https://img.shields.io/badge/PHP-333333?style=flat&logo=Php&logoColor=white)
   
+ <br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png"/>
+<br />
+  
 - 🚀 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -34,11 +38,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=eclipse-ide&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-<br/>
-
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/104678798/167273862-49ab4012-b397-4c37-8281-ed4e0ccb0f18.png"/>
-<br />
 
 <a href="https://github.com/Clem7777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
