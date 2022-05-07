@@ -1,4 +1,4 @@
-
+https://media.discordapp.net/attachments/839467202797109248/972556252121006100/4faf74fc9540dc483d61d5478cfc9578.gif
 
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -22,8 +22,7 @@
 
 <br />
 <br />
-<img align="right" src="![image](https://user-images.githubusercontent.com/104678798/167265929-4d1b9136-5de8-4b85-9dbb-338d91441135.png)
-"/>
+<img align="right" src="![image](https://user-images.githubusercontent.com/104678798/167265929-4d1b9136-5de8-4b85-9dbb-338d91441135.png)"/>
   
 ### 👨‍💻 Languages and Tools
 
