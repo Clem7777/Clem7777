@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 1Vs1 CTF baby ? 
+- 🤔 &nbsp; 1VS1 CTF baby ? 
 - ✍️ &nbsp; Want to learn Assembly ><
 
 
