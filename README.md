@@ -38,6 +38,7 @@
 
 <a href="https://github.com/Clem7777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
+  ![Clem7777's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clem7777&hide=contribs,prs)
 </a>
 
 ⭐️ From [Clem7777](https://github.com/Clem7777)
