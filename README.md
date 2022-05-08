@@ -39,7 +39,7 @@
 <a href="https://github.com/Clem7777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clem7777&theme=buefy&show_icons=true" />
   <a href="https://github.com/Clem7777">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clem7777&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 </a>
 
